@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">koga-si-pa-misls</string>
+    <string-array name="summary">
+        <item> 1.poglavje</item>
+        <item> 2.poglavje</item>
+        <item> 3.poglavje</item>
+        <item> 4.poglavje</item>
+
+    </string-array>
 </resources>
